@@ -7,3 +7,4 @@ This repository contains the lesson 'Performant Python', derived from many sourc
 
 ## Contributions to the tutorial
 If you would like to contribute to the lesson please fork the repository and create a pull request.
+    
